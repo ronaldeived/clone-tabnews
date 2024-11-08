@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>E ai qual a boa de hoje? Sextou.</h1>
+    return <h1>O importante é manter o foco e a persistência!</h1>
 }
 
 export default Home;
