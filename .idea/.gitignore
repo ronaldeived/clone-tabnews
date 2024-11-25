@@ -1,3 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
 # Dependency directories
 node_modules
 jspm_packages
@@ -8,6 +14,3 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 .next
-
-# IDE
-.idea
